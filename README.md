@@ -7,9 +7,10 @@ Try our menu on for size. We ensure we have the right delicacy for you. . .
 
 Download the app now on your Android device.
 
-############################################\n
-The Evens Eden App - v 1.0
 ############################################
+      The Evens Eden App - v 1.0
+############################################
+
 - Supports Android 5.0 and above
 - File Download Size: 13.2 MB
 
