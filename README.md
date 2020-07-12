@@ -5,7 +5,7 @@ You ever feel like it could be easier to get your favourite veggies?
 
 Try our menu on for size. We ensure we have the right delicacy for you. . .
 
-Download the app now on your Android device.
+Download the app on your Android device,  now!
 
 
       The Evens Eden App - v 1.0
