@@ -10,7 +10,8 @@ Download the app on your Android device,  now!
 
       The Evens Eden App - v 2.0
 
->< Release v2>< ><Updated Aisle Menu and overall user-interface><
+>< Release v2><
+Updated Aisle Menu and overall user-interface><
 
 
 
