@@ -8,7 +8,12 @@ Try our menu on for size. We ensure we have the right delicacy for you. . .
 Download the app on your Android device,  now!
 
 
-      The Evens Eden App - v 1.0
+      The Evens Eden App - v 2.0
+
+>< Release ><
+v2: Updated Aisle Menu and overall user-interface/
+
+
 
 
 - Supports Android 5.0 and above
