@@ -17,7 +17,7 @@ Updated Aisle Menu and overall user-interface><
 
 
 - Supports Android 5.0 and above
-- File Download Size: 13.5 MB
+- File Download Size: 12.8 MB
 
 IMPORTANT / BELANGRIK:
 
