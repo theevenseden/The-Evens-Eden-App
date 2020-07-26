@@ -8,16 +8,16 @@ Try our menu on for size. We ensure we have the right delicacy for you. . .
 Download the app on your Android device,  now!
 
 
-      The Evens Eden App - v 2.0
+      The Evens Eden App - v 31 ( Gregorian Calendar Weekly Build Number )
 
->< Release v2><
+>< Latest Release><
 Updated Aisle Menu and overall user-interface><
 
 
 
 
 - Supports Android 5.0 and above
-- File Download Size: 13.2 MB
+- File Download Size: 13.4 MB
 
 IMPORTANT / BELANGRIK:
 
